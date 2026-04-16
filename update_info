@@ -1,0 +1,7 @@
+{
+  "version": [1, 1, 0],
+  "download_url": "https://github.com/YourUsername/EasySection/releases/download/v1.1.0/EasySection.zip",
+  "change_log": "إضافة ميزة الـ Hatching، تحسين سرعة الـ DXF Export، وإصلاح بعض المشاكل في الـ UI.",
+  "release_date": "2026-04-16",
+  "minimum_blender_version": [3, 6, 0]
+}
